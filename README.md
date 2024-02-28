@@ -1,4 +1,4 @@
-## Mood-Based Recipe Recommender
+## Moodee: Mood-Based Recipe Recommender
 
 This Python script utilizes machine learning and natural language processing to recommend recipes based on a user's mood input. It makes use of the `pandas`, `re`, `scikit-learn`, `numpy`, `ipywidgets`, and `IPython.display` libraries.
 
